@@ -3,6 +3,10 @@
     scroll-behavior: smooth;
 }
 
+.navbar-light .navbar-toggler-icon{
+    background-color: white;
+}
+
 .bg-light{
     background:#30084e!important;
 }
@@ -20,6 +24,7 @@
     
     padding: .6rem;
     color: white;
+    width: 50%;
 }
 
 .product-inside{
@@ -28,7 +33,7 @@
     height: 6rem;
     text-align: center;
     padding: 1rem;
-    font-size: 1.5rem;
+    font-size: 1rem;
 
 }
 
